@@ -1,4 +1,4 @@
 module "adblock" {
   source    = "../../"
-  team_name = "woolfenden"
+  team_name = "capriciousduck"
 }
